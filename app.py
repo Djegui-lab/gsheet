@@ -1,5 +1,5 @@
 # example/st_app.py
-
+import matplotlib.pyplot as plt 
 import streamlit as st
 from streamlit_gsheets import GSheetsConnection
 
